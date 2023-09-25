@@ -27,7 +27,7 @@ The game also features an in-built level editor that allows for convenient level
 User-created levels can be shared via a button that is on the generated level page. This copies a shareable URL into the user's clipboard.
 
 Example link:
-[https://slide.jeffsieu.com/#/editor/generated/eAHT0oKC1FQurQoQ0KvQiwCy9cCgQk9PC8SuQGZD5KDiIB1wNVp6WNRDAZCdm5sLEq%2BoALIRAACupRzb](https://slide.jeffsieu.com/#/editor/generated/eAHT0oKC1FQurQoQ0KvQiwCy9cCgQk9PC8SuQGZD5KDiIB1wNVp6WNRDAZCdm5sLEq%2BoALIRAACupRzb)
+[https://blocked.jeffsieu.com/#/editor/generated/eAHT0oKC1FQurQoQ0KvQiwCy9cCgQk9PC8SuQGZD5KDiIB1wNVp6WNRDAZCdm5sLEq%2BoALIRAACupRzb](https://blocked.jeffsieu.com/#/editor/generated/eAHT0oKC1FQurQoQ0KvQiwCy9cCgQk9PC8SuQGZD5KDiIB1wNVp6WNRDAZCdm5sLEq%2BoALIRAACupRzb)
 
 ## Generating solutions
 
